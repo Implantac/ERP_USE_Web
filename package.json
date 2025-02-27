@@ -1,5 +1,5 @@
 {
-  "name": "erp-use-sistemas",
+  "name": "erp-use-web",
   "version": "1.0.0",
   "description": "Sistema ERP para gestão empresarial",
   "main": "src/server.js",
